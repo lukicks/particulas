@@ -1,1 +1,1 @@
-# particulas
+# pinko1-modelo
